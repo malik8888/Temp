@@ -1,5 +1,5 @@
 import time
-import is
+import os
 def measureTem ():
     tem=read_byte ()
     print "tem"
